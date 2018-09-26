@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-werkomgeving", "3D-werkomgeving.csproj", "{DE66C785-1692-2D32-CF80-17ABF74D80EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-werkomgeving.Plugins", "3D-werkomgeving.Plugins.csproj", "{A0768C61-255B-6746-5A0E-DAD5E9930A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-werkomgeving", "3D-werkomgeving.csproj", "{DE66C785-1692-2D32-CF80-17ABF74D80EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-werkomgeving.Editor.Plugins", "3D-werkomgeving.Editor.Plugins.csproj", "{764C5FA1-B722-BE6E-B446-7DE42862FC6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-werkomgeving.Editor", "3D-werkomgeving.Editor.csproj", "{4BE2F794-CA31-F435-8993-66E2D9F3101B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-werkomgeving.Editor", "3D-werkomgeving.Editor.csproj", "{4BE2F794-CA31-F435-8993-66E2D9F3101B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-werkomgeving.Editor", "3D-werkomgeving.Editor.csproj", "{4BE2F794-CA31-F435-8993-66E2D9F3101B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE66C785-1692-2D32-CF80-17ABF74D80EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE66C785-1692-2D32-CF80-17ABF74D80EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE66C785-1692-2D32-CF80-17ABF74D80EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE66C785-1692-2D32-CF80-17ABF74D80EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0768C61-255B-6746-5A0E-DAD5E9930A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0768C61-255B-6746-5A0E-DAD5E9930A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0768C61-255B-6746-5A0E-DAD5E9930A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0768C61-255B-6746-5A0E-DAD5E9930A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE66C785-1692-2D32-CF80-17ABF74D80EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE66C785-1692-2D32-CF80-17ABF74D80EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE66C785-1692-2D32-CF80-17ABF74D80EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE66C785-1692-2D32-CF80-17ABF74D80EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764C5FA1-B722-BE6E-B446-7DE42862FC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764C5FA1-B722-BE6E-B446-7DE42862FC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764C5FA1-B722-BE6E-B446-7DE42862FC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764C5FA1-B722-BE6E-B446-7DE42862FC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE2F794-CA31-F435-8993-66E2D9F3101B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
